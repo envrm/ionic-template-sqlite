@@ -9,3 +9,7 @@ Ionic template with routes/pages and SQLite
 5. ionic plugin add https://github.com/litehelpers/Cordova-sqlite-storage
 7. ionic run android
 
+For use prepopulated database, install plugin:
+
+    cordova plugin add https://github.com/an-rahulpandey/cordova-plugin-dbcopy.git
+
