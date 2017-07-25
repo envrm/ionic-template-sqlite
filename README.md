@@ -1,7 +1,7 @@
-##ionic-template-sqlite
+## ionic-template-sqlite
 Ionic template with routes/pages and SQLite
 
-##Installation
+## Installation
 1. ionic start PROJECT blank
 2. cp ionic-template-sqlite/www PROJECT/www
 3. ionic platform add android
@@ -12,4 +12,3 @@ Ionic template with routes/pages and SQLite
 For use prepopulated database, install plugin:
 
     cordova plugin add https://github.com/an-rahulpandey/cordova-plugin-dbcopy.git
-
